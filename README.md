@@ -1,5 +1,5 @@
 # GLPI myAssets Plugin
-GLPI plugin to display a plain table of devices/assets owned by the current user on his or her dashboard 
+GLPI plugin to display a plain table of devices/assets owned by the current user on his or her dashboard
 
 ## Installation
 1. Download the plugin
@@ -11,5 +11,8 @@ GLPI plugin to display a plain table of devices/assets owned by the current user
 1. Select a profile you want its users to be able to see their assets
 1. Navigate to 'Assistance'
 1. Under 'Association' select the check "My devices" and select the associable item groups
-1. ?????
-1. Profit
+
+### Update (By Mars)
+1. Folder name change (From myAssets to myassets)
+2. Add table for Manufacturer
+3. Add table for Model
