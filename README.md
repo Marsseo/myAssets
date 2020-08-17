@@ -11,5 +11,10 @@ GLPI plugin to display a plain table of devices/assets owned by the current user
 1. Select a profile you want its users to be able to see their assets
 1. Navigate to 'Assistance'
 1. Under 'Association' select the check "My devices" and select the associable item groups
-1. ?????
 1. Profit
+
+
+### Update (by Mars)
+1. Folder name change
+2. Add manufacturer
+3. Add model
