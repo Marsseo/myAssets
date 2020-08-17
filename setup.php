@@ -8,7 +8,7 @@
 			'version'        => '1.5',
 			'author'         => 'Hwasung Seo(Mars)',
 			'license'        => 'GPLv2+',
-			'homepage'       => '',
+			'homepage'       => 'https://github.com/Marsseo/myassets',
 			'minGlpiVersion' => '0.91'
 		);
 	};
