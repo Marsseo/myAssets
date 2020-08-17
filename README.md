@@ -3,6 +3,7 @@ GLPI plugin to display a plain table of devices/assets owned by the current user
 
 ## Installation
 1. Download the plugin
+1. Please edit floder name "myassets" from whatever.
 1. Unpack the plugin into the "[GLPI_DOCROOT]/plugins/" directory.
 1. Proceed with the configuration
 
