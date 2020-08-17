@@ -12,7 +12,7 @@ GLPI plugin to display a plain table of devices/assets owned by the current user
 1. Navigate to 'Assistance'
 1. Under 'Association' select the check "My devices" and select the associable item groups
 
-### Update (By Mars)
+## Update (By Mars) compatible with GLPI 9.5
 1. Folder name change (From myAssets to myassets)
 2. Add table for Manufacturer
 3. Add table for Model
