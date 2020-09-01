@@ -13,17 +13,17 @@
             <de><![CDATA[Nach dem Login wird dem Benutzer das ihm zugewiesene Inventar auf dem Dashboard angezeigt. Dies kann über die Profileinstellungen ('Administration->Profile->Helpdesk->Vereinigung') aus und eingeschaltet werden, weitehrin kann ausgewählt werden, welche Kategorien dem Benutzer angezeigt werden.]]></de>
         </long>
     </description>
-    <homepage>https://github.com/deadmanIsARabbit/myAssets</homepage>
-    <download>https://github.com/deadmanIsARabbit/myAssets/releases</download>
-    <issues>https://github.com/deadmanIsARabbit/myAssets/issues</issues>
-    <readme>https://raw.githubusercontent.com/deadmanIsARabbit/myAssets/master/README.md</readme>
+    <homepage>https://github.com/Marsseo/myassets</homepage>
+    <download>https://github.com/Marsseo/myassets/releases</download>
+    <issues>https://github.com/Marsseo/myassets/issues</issues>
+    <readme>https://github.com/Marsseo/myassets/blob/master/README.md</readme>
     <authors>
-        <author>Matthaeus Kuhn (m.kuhn@ayeq-benu.com)</author>
+        <author>Hwasung Seo</author>
     </authors>
     <versions>
         <version>
-            <num>1.0</num>
-            <compatibility>9.1.2</compatibility>
+            <num>1.5</num>
+            <compatibility>9.5.1</compatibility>
         </version>
     </versions>
     <langs>
